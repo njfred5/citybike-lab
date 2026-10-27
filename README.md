@@ -22,3 +22,5 @@ Python 3 and Git are the only tools needed for the offline lab.
 
 ## Release policy
 All changes must pass the automated tests before  merging.
+
+##How we verify releases
