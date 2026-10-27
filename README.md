@@ -19,3 +19,6 @@ Python 3 and Git are the only tools needed for the offline lab.
 - Work on a branch for each feature.
 - Read your changes before committing.
 - Never commit personal passwords, access tokens or `.env` files.
+
+## Release policy
+All changes must pass the automated tests before  merging.
